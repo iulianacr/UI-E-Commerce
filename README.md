@@ -1,2 +1,2 @@
-# UI-E-Commerce-
+# UI-E-Commerce
 Furniture online sales website in AI
