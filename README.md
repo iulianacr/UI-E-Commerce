@@ -1,2 +1,2 @@
 # UI-E-Commerce
-Furniture online sales website in AI
+Furniture online sales website in Adobe XD
